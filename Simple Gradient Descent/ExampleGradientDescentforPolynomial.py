@@ -1,7 +1,7 @@
 # Gradient Descent for Polynomial f 
 
 # Program uses Gradient Descent to find the critical points of the function f: R^2 ->R, (x,y) -> 2x^4 - x^2 -x^2 + y
-# A key observation was made that simplified the descent program. The partial derivative with respect to y is 2y, meaning that we can fix y = 0, while we descend investigate x coordinates. 
+# A key observation was made that simplified the descent program. The partial derivative with respect to y is 2y, meaning that we can fix y = 0, while investigating x coordinates. 
 
 import numpy as np 
 import matplotlib.pyplot as plt 
