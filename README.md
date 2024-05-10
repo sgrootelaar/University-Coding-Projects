@@ -1,2 +1,1 @@
-Collection of small coding projects encountered during my undegraduate degree.
-
+### Collection of small coding projects encountered during my undegraduate degree.
